@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi Welcome to Glenn's profile
+
+[<img align="center" width="420" src="./metrics_left.svg">](#)
+[<img align="center" width="420" src="./metrics_right.svg">](#)
 
 <!--
 **glennawatson/glennawatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
