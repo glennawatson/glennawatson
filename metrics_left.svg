@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="954" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1051" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.licenses,footer{display:flex}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.keyword{color:#b44418}.token.number{color:#2777aa}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            3230 issue comments
+                            3233 issue comments
                         </div>
                     </section>
                     <section>
@@ -268,6 +268,229 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#45996 Can you remove ads from the documentation?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Atulin in <span class="repo">dotnet/docs</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>
+                                                My two cents:
+                                                <code class="language-multiline" xml:space="preserve">* GitHub Copilot, as used in the documentation here, is free and integrated into the IDE. I do not think that you can call it an ad if it is for a free tool.
+
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                            </i>
+                                            The other issue is this, is it really a Dotnet Foundation's project or is it really Microsoft's pseudo-organization for Dotnet? Should documentation includes Jetbrains (as one of it's premier sponsor) to use their AI for code completion?
+I was told that Dotnet Foundation is supposed to be independent of Microsoft's or Github's influence and that it should be focusing on Dotnet development, not promoting Microsoft's or Github's specific AI tools for marketing. So I agree with other posters, AI/Product placement does not fit in this context for documentation on Dotnet.
+                                        </i>
+                                        .NET Foundation Board member here.
+While the .NET Foundation is not Microsoft, we have a number of projects (managed by Microsoft and independent maintainers) and we generally allow a fair amount of autonomy of the projects on how they run themselves. Unless there is a code of conduct violation or something I don't think its really a board or foundation decision to butt in.
+If this wasn't a Microsoft run project and we started dictating how they document the project we've would absolutely be in the latest controversy of the DNF, we've taken that approach in the past and its quite reasonably back fired on the foundation.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#528 Flow Overhaul and Various Tweaks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mattk04 in <span class="repo">vatpac-technology/sops</span></div>
+                                    <div class="comment">
+                                        Hey Matt, here's the suggestions I mentioned would be incoming via the DM. As I mentioned I wrote a bunch of notes and the bot has hopefully enhanced my notes to make it clearer, any confusion let me know. 
+I think 2 is more for your information for other websites, but given we aren't interacting with databases/web apis/other things it's safe enough.
+                                        <b>Code Review: Flow Calculator Logic &amp; Data</b>
+                                        This review covers
+                                        <code>flowData.js</code>
+                                        and
+                                        <code>flowControllerLogic.js</code>
+                                        . The main goals of these suggestions are to make the code work correctly, improve its safety, make it more robust (less likely to break with unexpected data), and keep it easy for you to update in the future.
+                                        <b>1. Incorrect HTML String Syntax in JavaScript</b>
+                                        I'm not sure if there is some templating engine I'm missing.
+
+Location:
+                                        <code>CreateFormElements</code>
+                                        function (e.g.,
+                                        <code>formContent = &lt;div&gt;...&lt;/div&gt;;</code>
+                                        )
+                                        <code>GenerateArrivalOptions</code>
+                                        ,
+                                        <code>GenerateAircraftTypeOptions</code>
+                                        ,
+                                        <code>GenerateSpeedOptions</code>
+                                        functions (e.g.,
+                                        <code>arrivalOptions += ;</code>
+                                        )
+                                        <code>CalculateLandingTime</code>
+                                        &amp;
+                                        <code>CalculateFeederFixTime</code>
+                                        when setting
+                                        <code>resultSpan.textContent</code>
+                                        (e.g.
+                                        <code>resultSpan.textContent = ${String(landingTime).padStart(2, '0')};</code>
+                                        )
+
+
+Issue: The way you're writing HTML snippets directly in your JavaScript (like
+                                        <code>&lt;div&gt;</code>
+                                        ) looks like JSX, which is a special syntax used with libraries like React. In standard "vanilla" JavaScript that runs directly in a browser, this syntax isn't recognized and will cause
+                                        <code>SyntaxError</code>
+                                        s, preventing your script from running. JavaScript needs to treat HTML as text strings.
+
+Suggestion:
+  You need to convert these HTML parts into proper JavaScript strings. The best way to do this, especially when you're inserting variable values (like
+                                        <code>${elementIDPrefix}</code>
+                                        ), is to use template literals (strings enclosed in backticks
+                                        <code>`</code>
+                                        ).
+
+Example in
+                                        <code>CreateFormElements</code>
+                                        :
+                                        <code class="language-multiline language-javascript" xml:space="preserve"><span class="token comment">// Incorrect (will cause a SyntaxError)</span>
+<span class="token comment">// formContent = &lt;div&gt;            &lt;div&gt;</span>
+<span class="token trimmed">(19 more lines were trimmed)</span></code>
+                                        Example in
+                                        <code>GenerateArrivalOptions</code>
+                                        :
+                                        <code class="language-multiline language-javascript" xml:space="preserve"><span class="token comment">// Incorrect</span>
+<span class="token comment">// arrivalOptions += ;</span>
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        Example in
+                                        <code>CalculateLandingTime</code>
+                                        /
+                                        <code>CalculateFeederFixTime</code>
+                                        :
+                                        <code class="language-multiline language-javascript" xml:space="preserve"><span class="token comment">// Incorrect</span>
+<span class="token comment">// resultSpan.textContent = ${String(landingTime).padStart(2, '0')};</span>
+<span class="token trimmed">(5 more lines were trimmed)</span></code>
+                                        This change is essential for your calculator to work.
+                                        <b>2. Safer HTML Creation: <code>innerHTML</code> and Static Sites (MkDocs Context)</b>
+                                        Location:
+                                        <code>CreateFormElements</code>
+                                        (where you use
+                                        <code>form.innerHTML = formContent + resultsRow;</code>
+                                        )
+Event listeners in
+                                        <code>DOMContentLoaded</code>
+                                        (e.g.,
+                                        <code>arrivalSelect.innerHTML = GenerateArrivalOptions(...)</code>
+                                        )
+
+
+Issue &amp; Context: When you build HTML by joining strings and then set it using
+                                        <code>innerHTML</code>
+                                        , there's a general caution about Cross-Site Scripting (XSS). This happens if the data used in those strings (like airport names) could accidentally or maliciously contain HTML code that then gets executed.
+Give we are using MkDocs:
+Lower Immediate Risk from
+                                        <code>flowData.js</code>
+                                        : Since we are interacting with any databases, web apis, and since we use MkDocs to generate a static site, and the
+                                        <code>flowData.js</code>
+                                        is a file you control and is part of the site's source code, the risk of XSS from the contents of
+                                        <code>flowData.js</code>
+                                        itself is significantly lower. An attacker would need to compromise the GitHub source code repository or the build process to inject malicious content into
+                                        <code>flowData.js</code>
+                                        . The data isn't coming from live user input or a dynamic, easily altered database in this scenario.
+Still a Good Habit: While the direct risk from your current
+                                        <code>flowData.js</code>
+                                        is low, using
+                                        <code>innerHTML</code>
+                                        with concatenated strings is a practice that can become risky if the data source ever changes (e.g., if you later decide to load airport data from an external API or a user-editable source).
+
+
+Suggestion:
+For This Project: Given it's a static site and
+                                        <code>flowData.js</code>
+                                        is a trusted, self-contained part of your project, continuing to use
+                                        <code>innerHTML</code>
+                                        (after fixing the syntax) for populating dropdowns from this specific trusted data is an acceptable risk for a hobbyist project. The primary concern is the syntax.
+Best Practice Awareness: It's still good to be aware that for maximum security, especially if data sources were not hardcoded and trusted, programmatically creating DOM elements is the safest approach (e.g., using
+                                        <code>document.createElement()</code>
+                                        ,
+                                        <code>element.setAttribute()</code>
+                                        , and
+                                        <code>element.textContent</code>
+                                        ). For your current setup, this is less critical than fixing the syntax.
+                                        <b>3. Making Sure Data Exists Before Using It</b>
+                                        Location: Throughout the script, especially in
+                                        <code>CreateFormElements</code>
+                                        , the
+                                        <code>Retrieve...</code>
+                                        functions, and
+                                        <code>Calculate...</code>
+                                        functions.
+Issue: Your code often looks up data in
+                                        <code>flowData</code>
+                                        like this:
+                                        <code>flowData[aerodrome][selectedRunway][selectedArrival]...</code>
+                                        . If, for example, an
+                                        <code>aerodrome</code>
+                                        doesn't exist in your
+                                        <code>flowData</code>
+                                        , or a
+                                        <code>selectedRunway</code>
+                                        doesn't have any
+                                        <code>arrivals</code>
+                                        defined, your script will try to get information from something that isn't there, which will cause an error and stop the script.
+For instance,
+                                        <code>const prefillArrival = RetrieveArrivals(aerodrome, prefillRunway)[0];</code>
+                                        in
+                                        <code>CreateFormElements</code>
+                                        will error if
+                                        <code>RetrieveArrivals</code>
+                                        finds no arrivals for
+                                        <code>prefillRunway</code>
+                                        (it would be trying to get the first item of an empty list).
+
+
+Suggestion: Before you try to use a piece of data, especially from a deeper level of your
+                                        <code>flowData</code>
+                                        object, check if it actually exists.
+Example for
+                                        <code>prefillArrival</code>
+                                        in
+                                        <code>CreateFormElements</code>
+                                        :
+                                        <code class="language-multiline language-javascript" xml:space="preserve"><span class="token keyword">const</span> availableArrivals <span class="token operator">=</span> <span class="token function"><span class="token maybe-class-name">RetrieveArrivals</span></span><span class="token punctuation">(</span>aerodrome<span class="token punctuation">,</span> prefillRunway<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> prefillArrival <span class="token operator">=</span> availableArrivals<span class="token punctuation">.</span><span class="token property-access">length</span> <span class="token operator">&gt;</span> <span class="token number">0</span> <span class="token operator">?</span> availableArrivals<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span> <span class="token operator">:</span> <span class="token keyword null nil">null</span><span class="token punctuation">;</span>
+<span class="token trimmed">(8 more lines were trimmed)</span></code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#3997 [Bug]: Linking fails for iOS device builds with version 20.2.45</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Qonstrukt in <span class="repo">reactiveui/ReactiveUI</span></div>
+                                    <div class="comment">Likely an issue when we swapped over to having the attributes, and not having the linker xml anymore. Likely the solution will be at least for the moment bring that xml file back.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#1022 [Bug]: Cannot compile with NativeAOT on dotnet 9</span>
                                     </div>
                                 </div>
@@ -295,67 +518,12 @@ ths is because we are adding all the microsoft attributes to indicate where we s
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#441 Issue: New .NET Foundation Project Application (Azure Key Vault Emulator)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by james-gould in <span class="repo">dotnet-foundation/projects</span></div>
-                                    <div class="comment">Hi, I suspect there might some license issues around this application, As per our FAQ here:
-https://github.com/dotnet-foundation/projects#eligibility-criteria
-eg:
-BSD, MIT, Apache
-Will have to get our website fixed again or that GitHub page to make it clearer which licenses are valid.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#500 Add PR validation of mkdocs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by glennawatson in <span class="repo">vatpac-technology/sops</span></div>
-                                    <div class="comment">it's in https://github.com/vatpac-technology/sops/commits/main/</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#500 Add PR validation of mkdocs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">vatpac-technology/sops</span></div>
-                                    <div>2 files changed <span class="code">++46 --7</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2025, 10:18:25 (timezone Australia/Victoria) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 May 2025, 10:18:16 (timezone Australia/Victoria) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
