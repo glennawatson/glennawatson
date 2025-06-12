@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="794" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1146" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,10 +30,10 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -260,6 +260,1448 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 109 commits in
+                                        <span class="repo">Metadorius/ReactiveUI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/init-rx-ui-ns-order</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62bc676</div>
+                                        <div class="message">chore(deps): update dependency verify.xunit to 26.4.5 (#3908)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Verify.Xunit](https://redirect.github.com/VerifyTests/Verify) |
+`26.4.4` -&gt; `26.4.5` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Verify.Xunit/26.4.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Verify.Xunit/26.4.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Verify.Xunit/26.4.4/26.4.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Verify.Xunit/26.4.4/26.4.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;VerifyTests/Verify (Verify.Xunit)&lt;/summary&gt;
+
+###
+[`v26.4.5`](https://redirect.github.com/VerifyTests/Verify/compare/26.4.4...26.4.5)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.4.4...26.4.5)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC44MC4wIiwidXBkYXRlZEluVmVyIjoiMzguODAuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ceece59</div>
+                                        <div class="message">Housekeeping Update ci-build (#3909)
+
+&lt;!-- Please be sure to read the
+[Contribute](https://github.com/reactiveui/reactiveui#contribute)
+section of the README --&gt;
+
+**What kind of change does this PR introduce?**
+&lt;!-- Bug fix, feature, docs update, ... --&gt;
+
+Update
+
+**What is the new behavior?**
+&lt;!-- If this is a feature change --&gt;
+
+
+
+**What might this PR break?**
+
+
+
+**Please check if the PR fulfills these requirements**
+- [ ] Tests for the changes have been added (for bug fixes / features)
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+**Other information**:</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a2fef0</div>
+                                        <div class="message">chore(deps): update dependency roslynator.analyzers to 4.12.5 (#3907)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Roslynator.Analyzers](https://redirect.github.com/dotnet/roslynator)
+| `4.12.4` -&gt; `4.12.5` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Roslynator.Analyzers/4.12.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Roslynator.Analyzers/4.12.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Roslynator.Analyzers/4.12.4/4.12.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Roslynator.Analyzers/4.12.4/4.12.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/roslynator (Roslynator.Analyzers)&lt;/summary&gt;
+
+###
+[`v4.12.5`](https://redirect.github.com/dotnet/roslynator/blob/HEAD/ChangeLog.md#4125---2024-09-13)
+
+##### Fixed
+
+- Fix analyzer
+[RCS1182](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS1182)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1502))
+- Fix analyzer
+[RCS1198](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS1198)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1501))
+- Fix analyzer
+[RCS1214](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS1214)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1500))
+- Fix analyzer
+[RCS1018](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS1018)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1510))
+- Fix analyzer
+[RCS1264](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS1264)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1511))
+- Fix analyzer
+[RCS0053](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS0053)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1512))
+- Fix analyzer
+[RCS0056](https://josefpihrt.github.io/docs/roslynator/analyzers/RCS0056)
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1514))
+
+##### Changed
+
+- Bump Roslyn to 4.11.0
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1483))
+    -   Applies to CLI and testing library.
+
+##### Removed
+
+- \[CLI] Remove support for .NET SDK 6
+([PR](https://redirect.github.com/dotnet/roslynator/pull/1483))
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC44MC4wIiwidXBkYXRlZEluVmVyIjoiMzguODAuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a5ac6d</div>
+                                        <div class="message">chore: Delete src/global.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7547489</div>
+                                        <div class="message">chore(deps): update dotnet monorepo (#3881)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence | Type |
+Update |
+|---|---|---|---|---|---|---|---|
+| [Microsoft.AspNetCore.Components](https://asp.net/)
+([source](https://togithub.com/dotnet/aspnetcore)) | `6.0.32` -&gt;
+`6.0.33` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.AspNetCore.Components/6.0.33?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.AspNetCore.Components/6.0.33?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.AspNetCore.Components/6.0.32/6.0.33?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.AspNetCore.Components/6.0.32/6.0.33?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+| nuget | patch |
+| [Microsoft.AspNetCore.Components](https://asp.net/)
+([source](https://togithub.com/dotnet/aspnetcore)) | `8.0.7` -&gt; `8.0.8`
+|
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.AspNetCore.Components/8.0.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.AspNetCore.Components/8.0.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.AspNetCore.Components/8.0.7/8.0.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.AspNetCore.Components/8.0.7/8.0.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+| nuget | patch |
+|
+[Microsoft.CodeAnalysis.CSharp.Workspaces](https://togithub.com/dotnet/roslyn)
+| `4.10.0` -&gt; `4.11.0` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.CodeAnalysis.CSharp.Workspaces/4.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.CodeAnalysis.CSharp.Workspaces/4.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.CodeAnalysis.CSharp.Workspaces/4.10.0/4.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.CodeAnalysis.CSharp.Workspaces/4.10.0/4.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+| nuget | minor |
+| [dotnet-sdk](https://togithub.com/dotnet/sdk) | `8.0.303` -&gt; `8.0.401`
+|
+[![age](https://developer.mend.io/api/mc/badges/age/dotnet-version/dotnet-sdk/8.0.401?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/dotnet-version/dotnet-sdk/8.0.401?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/dotnet-version/dotnet-sdk/8.0.303/8.0.401?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/dotnet-version/dotnet-sdk/8.0.303/8.0.401?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+| dotnet-sdk | patch |
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/aspnetcore (Microsoft.AspNetCore.Components)&lt;/summary&gt;
+
+###
+[`v6.0.33`](https://togithub.com/dotnet/aspnetcore/releases/tag/v6.0.33):
+.NET 6.0.33
+
+[Release](https://togithub.com/dotnet/core/releases/tag/v6.0.33)
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/sdk (dotnet-sdk)&lt;/summary&gt;
+
+###
+[`v8.0.401`](https://togithub.com/dotnet/sdk/compare/v8.0.400...v8.0.401)
+
+[Compare
+Source](https://togithub.com/dotnet/sdk/compare/v8.0.400...v8.0.401)
+
+###
+[`v8.0.400`](https://togithub.com/dotnet/sdk/compare/v8.0.303...v8.0.400)
+
+[Compare
+Source](https://togithub.com/dotnet/sdk/compare/v8.0.304...v8.0.400)
+
+###
+[`v8.0.304`](https://togithub.com/dotnet/sdk/compare/v8.0.303...v8.0.304)
+
+[Compare
+Source](https://togithub.com/dotnet/sdk/compare/v8.0.303...v8.0.304)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+👻 **Immortal**: This PR will be recreated if closed unmerged. Get
+[config help](https://togithub.com/renovatebot/renovate/discussions) if
+that's undesired.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC4yNi4xIiwidXBkYXRlZEluVmVyIjoiMzguNTYuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52dd0bc</div>
+                                        <div class="message">chore(deps): update dependency xamarin.androidx.core to 1.13.1.4 (#3891)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Xamarin.AndroidX.Core](https://aka.ms/androidx)
+([source](https://redirect.github.com/xamarin/AndroidX)) | `1.13.1.3` -&gt;
+`1.13.1.4` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Xamarin.AndroidX.Core/1.13.1.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Xamarin.AndroidX.Core/1.13.1.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Xamarin.AndroidX.Core/1.13.1.3/1.13.1.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Xamarin.AndroidX.Core/1.13.1.3/1.13.1.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC41OS4yIiwidXBkYXRlZEluVmVyIjoiMzguNTkuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb0df80</div>
+                                        <div class="message">chore(deps): update dependency xamarin.androidx.media to 1.7.0.6 (#3892)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Xamarin.AndroidX.Media](https://aka.ms/androidx)
+([source](https://redirect.github.com/xamarin/AndroidX)) | `1.7.0.5` -&gt;
+`1.7.0.6` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Xamarin.AndroidX.Media/1.7.0.6?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Xamarin.AndroidX.Media/1.7.0.6?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Xamarin.AndroidX.Media/1.7.0.5/1.7.0.6?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Xamarin.AndroidX.Media/1.7.0.5/1.7.0.6?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC41OS4yIiwidXBkYXRlZEluVmVyIjoiMzguNTkuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b14bb71</div>
+                                        <div class="message">chore(deps): update dependency verify.xunit to 26.4.4 (#3904)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Verify.Xunit](https://redirect.github.com/VerifyTests/Verify) |
+`26.4.2` -&gt; `26.4.4` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Verify.Xunit/26.4.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Verify.Xunit/26.4.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Verify.Xunit/26.4.2/26.4.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Verify.Xunit/26.4.2/26.4.4?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;VerifyTests/Verify (Verify.Xunit)&lt;/summary&gt;
+
+###
+[`v26.4.4`](https://redirect.github.com/VerifyTests/Verify/compare/26.4.3...26.4.4)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.4.3...26.4.4)
+
+###
+[`v26.4.3`](https://redirect.github.com/VerifyTests/Verify/compare/26.4.2...26.4.3)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.4.2...26.4.3)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC44MC4wIiwidXBkYXRlZEluVmVyIjoiMzguODAuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f018e3</div>
+                                        <div class="message">chore(deps): update dependency microsoft.xaml.behaviors.wpf to 1.1.135 (#3903)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+|
+[Microsoft.Xaml.Behaviors.Wpf](https://redirect.github.com/Microsoft/XamlBehaviorsWpf)
+([source](https://redirect.github.com/microsoft/XamlBehaviorsWpf)) |
+`1.1.122` -&gt; `1.1.135` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.Xaml.Behaviors.Wpf/1.1.135?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.Xaml.Behaviors.Wpf/1.1.135?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.Xaml.Behaviors.Wpf/1.1.122/1.1.135?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.Xaml.Behaviors.Wpf/1.1.122/1.1.135?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;microsoft/XamlBehaviorsWpf
+(Microsoft.Xaml.Behaviors.Wpf)&lt;/summary&gt;
+
+###
+[`v1.1.135`](https://redirect.github.com/microsoft/XamlBehaviorsWpf/releases/tag/v1.1.135):
+Behaviors 1.1.135
+
+##### What's Changed
+
+This release fixes an issue with [Keytriggers not firing when the ALT
+modifier is
+used](https://redirect.github.com/microsoft/XamlBehaviorsWpf/issues/175):
+
+- Fixed KeyTrigger where the Alt key was being seen as Key.System by
+[@&amp;#8203;brianlagunas](https://redirect.github.com/brianlagunas) in
+[https://github.com/microsoft/XamlBehaviorsWpf/pull/176](https://redirect.github.com/microsoft/XamlBehaviorsWpf/pull/176)
+
+**Full Changelog**:
+https://github.com/microsoft/XamlBehaviorsWpf/compare/v1.1.122...v1.1.135
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC44MC4wIiwidXBkYXRlZEluVmVyIjoiMzguODAuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb3013a</div>
+                                        <div class="message">chore(deps): update dependency fluentassertions to 6.12.1 (#3902)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [FluentAssertions](https://www.fluentassertions.com/)
+([source](https://redirect.github.com/fluentassertions/fluentassertions))
+| `6.12.0` -&gt; `6.12.1` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/FluentAssertions/6.12.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/FluentAssertions/6.12.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/FluentAssertions/6.12.0/6.12.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/FluentAssertions/6.12.0/6.12.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;fluentassertions/fluentassertions (FluentAssertions)&lt;/summary&gt;
+
+###
+[`v6.12.1`](https://redirect.github.com/fluentassertions/fluentassertions/releases/tag/6.12.1)
+
+[Compare
+Source](https://redirect.github.com/fluentassertions/fluentassertions/compare/6.12.0...6.12.1)
+
+&lt;!-- Release notes generated using configuration in .github/release.yml
+at master --&gt;
+
+##### What's Changed
+
+##### Improvements
+
+- Improve `BeEmpty()` and `BeNullOrEmpty()` performance for
+`IEnumerable&lt;T&gt;`, by materializing only the first item -
+[#&amp;#8203;2530](https://redirect.github.com/fluentassertions/fluentassertions/pull/2530)
+
+##### Fixes
+
+- Fixed formatting error when checking nullable `DateTimeOffset` with
+`BeWithin(...).Before(...)` -
+[#&amp;#8203;2312](https://redirect.github.com/fluentassertions/fluentassertions/pull/2312)
+- `BeEquivalentTo` will now find and can map subject properties that are
+implemented through an explicitly-implemented interface -
+[#&amp;#8203;2152](https://redirect.github.com/fluentassertions/fluentassertions/pull/2152)
+- Fixed that the `because` and `becauseArgs` were not passed down the
+equivalency tree -
+[#&amp;#8203;2318](https://redirect.github.com/fluentassertions/fluentassertions/pull/2318)
+- `BeEquivalentTo` can again compare a non-generic `IDictionary` with a
+generic one -
+[#&amp;#8203;2358](https://redirect.github.com/fluentassertions/fluentassertions/pull/2358)
+- Fixed that the `FormattingOptions` were not respected in inner
+`AssertionScope` -
+[#&amp;#8203;2329](https://redirect.github.com/fluentassertions/fluentassertions/pull/2329)
+- Capitalize `true` and `false` in failure messages and make them
+formattable to a custom `BooleanFormatter` -
+[#&amp;#8203;2390](https://redirect.github.com/fluentassertions/fluentassertions/pull/2390),
+[#&amp;#8203;2393](https://redirect.github.com/fluentassertions/fluentassertions/pull/2393)
+- Improved the failure message for `NotBeOfType` when wrapped in an
+`AssertionScope` and the subject is null -
+[#&amp;#8203;2399](https://redirect.github.com/fluentassertions/fluentassertions/pull/2399)
+- Improved the failure message for `BeWritable`/`BeReadable` when
+wrapped in an `AssertionScope` and the subject is read-only/write-only -
+[#&amp;#8203;2399](https://redirect.github.com/fluentassertions/fluentassertions/pull/2399)
+- Improved the failure message for `ThrowExactly[Async]` when wrapped in
+an `AssertionScope` and no exception is thrown -
+[#&amp;#8203;2398](https://redirect.github.com/fluentassertions/fluentassertions/pull/2398)
+- Improved the failure message for `[Not]HaveExplicitProperty` when
+wrapped in an `AssertionScope` and not implementing the interface -
+[#&amp;#8203;2403](https://redirect.github.com/fluentassertions/fluentassertions/pull/2403)
+- Improved the failure message for `[Not]HaveExplicitMethod` when
+wrapped in an `AssertionScope` and not implementing the interface -
+[#&amp;#8203;2403](https://redirect.github.com/fluentassertions/fluentassertions/pull/2403)
+- Changed `BeEquivalentTo` to exclude `private protected` members from
+the comparison -
+[#&amp;#8203;2417](https://redirect.github.com/fluentassertions/fluentassertions/pull/2417)
+- Fixed using `BeEquivalentTo` on an empty `ArraySegment` -
+[#&amp;#8203;2445](https://redirect.github.com/fluentassertions/fluentassertions/pull/2445),
+[#&amp;#8203;2511](https://redirect.github.com/fluentassertions/fluentassertions/pull/2511)
+- `BeEquivalentTo` with a custom comparer can now handle null values -
+[#&amp;#8203;2489](https://redirect.github.com/fluentassertions/fluentassertions/pull/2489)
+- Ensured that nested calls to `AssertionScope(context)` create a
+chained context -
+[#&amp;#8203;2607](https://redirect.github.com/fluentassertions/fluentassertions/pull/2607)
+- One overload of the `AssertionScope` constructor would not create an
+actual scope associated with the thread -
+[#&amp;#8203;2607](https://redirect.github.com/fluentassertions/fluentassertions/pull/2607)
+- Fixed `ThrowWithinAsync` not respecting `OperationCanceledException` -
+[#&amp;#8203;2614](https://redirect.github.com/fluentassertions/fluentassertions/pull/2614)
+- Fixed using `BeEquivalentTo` with an `IEqualityComparer` targeting
+nullable types -
+[#&amp;#8203;2648](https://redirect.github.com/fluentassertions/fluentassertions/pull/2648)
+
+**Full Changelog**:
+https://github.com/fluentassertions/fluentassertions/compare/6.12.0...6.12.1
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC44MC4wIiwidXBkYXRlZEluVmVyIjoiMzguODAuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d454df</div>
+                                        <div class="message">chore(deps): update dependency verify.xunit to 26.4.2 (#3901)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Verify.Xunit](https://redirect.github.com/VerifyTests/Verify) |
+`26.4.0` -&gt; `26.4.2` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Verify.Xunit/26.4.2?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Verify.Xunit/26.4.2?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Verify.Xunit/26.4.0/26.4.2?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Verify.Xunit/26.4.0/26.4.2?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;VerifyTests/Verify (Verify.Xunit)&lt;/summary&gt;
+
+###
+[`v26.4.2`](https://redirect.github.com/VerifyTests/Verify/compare/26.4.1...26.4.2)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.4.1...26.4.2)
+
+###
+[`v26.4.1`](https://redirect.github.com/VerifyTests/Verify/compare/26.4.0...26.4.1)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.4.0...26.4.1)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC44MC4wIiwidXBkYXRlZEluVmVyIjoiMzguODAuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1d1fe1</div>
+                                        <div class="message">chore(deps): update dependency verify.xunit to 26.4.0 (#3897)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Verify.Xunit](https://redirect.github.com/VerifyTests/Verify) |
+`26.3.1` -&gt; `26.4.0` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Verify.Xunit/26.4.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Verify.Xunit/26.4.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Verify.Xunit/26.3.1/26.4.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Verify.Xunit/26.3.1/26.4.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;VerifyTests/Verify (Verify.Xunit)&lt;/summary&gt;
+
+###
+[`v26.4.0`](https://redirect.github.com/VerifyTests/Verify/compare/26.3.1...26.4.0)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.3.1...26.4.0)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC43NC4xIiwidXBkYXRlZEluVmVyIjoiMzguNzQuMSIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#354d0ee</div>
+                                        <div class="message">chore(deps): update dependency microsoft.net.test.sdk to 17.11.1 (#3898)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Microsoft.NET.Test.Sdk](https://redirect.github.com/microsoft/vstest)
+| `17.11.0` -&gt; `17.11.1` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.NET.Test.Sdk/17.11.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.NET.Test.Sdk/17.11.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.NET.Test.Sdk/17.11.0/17.11.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.NET.Test.Sdk/17.11.0/17.11.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;microsoft/vstest (Microsoft.NET.Test.Sdk)&lt;/summary&gt;
+
+###
+[`v17.11.1`](https://redirect.github.com/microsoft/vstest/releases/tag/v17.11.1)
+
+#### What's Changed
+
+- \[rel/17.11] Forward error output from testhost as info by
+[@&amp;#8203;nohwnd](https://redirect.github.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5193](https://redirect.github.com/microsoft/vstest/pull/5193)
+
+**Full Changelog**:
+https://github.com/microsoft/vstest/compare/v17.11.0...v17.11.1
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC43NC4xIiwidXBkYXRlZEluVmVyIjoiMzguNzQuMSIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0685722</div>
+                                        <div class="message">chore(deps): update dependency verify.xunit to 26.3.1 (#3894)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Verify.Xunit](https://redirect.github.com/VerifyTests/Verify) |
+`26.2.0` -&gt; `26.3.1` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Verify.Xunit/26.3.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Verify.Xunit/26.3.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Verify.Xunit/26.2.0/26.3.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Verify.Xunit/26.2.0/26.3.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;VerifyTests/Verify (Verify.Xunit)&lt;/summary&gt;
+
+###
+[`v26.3.1`](https://redirect.github.com/VerifyTests/Verify/compare/26.3.0...26.3.1)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.3.0...26.3.1)
+
+###
+[`v26.3.0`](https://redirect.github.com/VerifyTests/Verify/compare/26.2.0...26.3.0)
+
+[Compare
+Source](https://redirect.github.com/VerifyTests/Verify/compare/26.2.0...26.3.0)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC41OS4yIiwidXBkYXRlZEluVmVyIjoiMzguNzQuMSIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df29179</div>
+                                        <div class="message">chore(deps): update dependency xamarin.jetbrains.annotations to 24.1.0.7 (#3893)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Xamarin.Jetbrains.Annotations](https://aka.ms/androidx)
+([source](https://redirect.github.com/xamarin/AndroidX)) | `24.1.0.6` -&gt;
+`24.1.0.7` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Xamarin.Jetbrains.Annotations/24.1.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Xamarin.Jetbrains.Annotations/24.1.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Xamarin.Jetbrains.Annotations/24.1.0.6/24.1.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Xamarin.Jetbrains.Annotations/24.1.0.6/24.1.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC41OS4yIiwidXBkYXRlZEluVmVyIjoiMzguNTkuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cab10e</div>
+                                        <div class="message">chore(deps): update dependency nerdbank.gitversioning to 3.6.143 (#3890)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+|
+[Nerdbank.GitVersioning](https://redirect.github.com/dotnet/Nerdbank.GitVersioning)
+| `3.6.141` -&gt; `3.6.143` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Nerdbank.GitVersioning/3.6.143?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Nerdbank.GitVersioning/3.6.143?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Nerdbank.GitVersioning/3.6.141/3.6.143?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Nerdbank.GitVersioning/3.6.141/3.6.143?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/Nerdbank.GitVersioning
+(Nerdbank.GitVersioning)&lt;/summary&gt;
+
+###
+[`v3.6.143`](https://redirect.github.com/dotnet/Nerdbank.GitVersioning/releases/tag/v3.6.143)
+
+#### What's Changed
+
+- Update NuGet.PackageManagement to v6.3.4 by
+[@&amp;#8203;flcdrg](https://redirect.github.com/flcdrg) in
+[https://github.com/dotnet/Nerdbank.GitVersioning/pull/1082](https://redirect.github.com/dotnet/Nerdbank.GitVersioning/pull/1082)
+
+**Full Changelog**:
+https://github.com/dotnet/Nerdbank.GitVersioning/compare/v3.6.141...v3.6.143
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC41OS4yIiwidXBkYXRlZEluVmVyIjoiMzguNTkuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e2adb5</div>
+                                        <div class="message">chore(deps): update dependency xamarin.androidx.core to 1.13.1.3 (#3861)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Xamarin.AndroidX.Core](https://aka.ms/androidx)
+([source](https://togithub.com/xamarin/AndroidX)) | `1.13.1.2` -&gt;
+`1.13.1.3` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Xamarin.AndroidX.Core/1.13.1.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Xamarin.AndroidX.Core/1.13.1.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Xamarin.AndroidX.Core/1.13.1.2/1.13.1.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Xamarin.AndroidX.Core/1.13.1.2/1.13.1.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy40MzguMCIsInVwZGF0ZWRJblZlciI6IjM4LjU2LjAiLCJ0YXJnZXRCcmFuY2giOiJtYWluIiwibGFiZWxzIjpbIkRlcGVuZGVuY3kgTWFuYWdlbWVudCJdfQ==--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7273c51</div>
+                                        <div class="message">chore(deps): update dependency xamarin.androidx.media to 1.7.0.5 (#3862)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Xamarin.AndroidX.Media](https://aka.ms/androidx)
+([source](https://redirect.github.com/xamarin/AndroidX)) | `1.7.0.4` -&gt;
+`1.7.0.5` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Xamarin.AndroidX.Media/1.7.0.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Xamarin.AndroidX.Media/1.7.0.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Xamarin.AndroidX.Media/1.7.0.4/1.7.0.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Xamarin.AndroidX.Media/1.7.0.4/1.7.0.5?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy40MzguMCIsInVwZGF0ZWRJblZlciI6IjM4LjU5LjIiLCJ0YXJnZXRCcmFuY2giOiJtYWluIiwibGFiZWxzIjpbIkRlcGVuZGVuY3kgTWFuYWdlbWVudCJdfQ==--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de5f3fe</div>
+                                        <div class="message">Feature Add AndroidX with new packages (#3889)
+
+&lt;!-- Please be sure to read the
+[Contribute](https://github.com/reactiveui/reactiveui#contribute)
+section of the README --&gt;
+
+**What kind of change does this PR introduce?**
+&lt;!-- Bug fix, feature, docs update, ... --&gt;
+
+Feature
+
+**What is the current behavior?**
+&lt;!-- You can also link to an open issue here. --&gt;
+
+#3851
+
+**What is the new behavior?**
+&lt;!-- If this is a feature change --&gt;
+
+Functionality ported from the Mono Android TFM version that went out of
+support.
+Only supports Net 8.0 plus with the latest packages released on 29th
+August 2024
+
+**What might this PR break?**
+
+No support for older targets if upgrading from the legacy package.
+
+**Please check if the PR fulfills these requirements**
+- [ ] Tests for the changes have been added (for bug fixes / features)
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+**Other information**:</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60b9d48</div>
+                                        <div class="message">chore(deps): update dependency microsoft.net.test.sdk to 17.11.0 (#3888)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [Microsoft.NET.Test.Sdk](https://togithub.com/microsoft/vstest) |
+`17.10.0` -&gt; `17.11.0` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.NET.Test.Sdk/17.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.NET.Test.Sdk/17.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.NET.Test.Sdk/17.10.0/17.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.NET.Test.Sdk/17.10.0/17.11.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;microsoft/vstest (Microsoft.NET.Test.Sdk)&lt;/summary&gt;
+
+###
+[`v17.11.0`](https://togithub.com/microsoft/vstest/releases/tag/v17.11.0)
+
+#### What's Changed
+
+- Add reference to the AdapterUtilities library in the spec docs. by
+[@&amp;#8203;peterwald](https://togithub.com/peterwald) in
+[https://github.com/microsoft/vstest/pull/4958](https://togithub.com/microsoft/vstest/pull/4958)
+- Stack trace when localized, and new messages by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4944](https://togithub.com/microsoft/vstest/pull/4944)
+- Fix single quote and space in F# pretty methods by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4969](https://togithub.com/microsoft/vstest/pull/4969)
+- Update .NET runtimes to latest patch version by
+[@&amp;#8203;Evangelink](https://togithub.com/Evangelink) in
+[https://github.com/microsoft/vstest/pull/4975](https://togithub.com/microsoft/vstest/pull/4975)
+- Update dotnetcoretests.md by
+[@&amp;#8203;DickBaker](https://togithub.com/DickBaker) in
+[https://github.com/microsoft/vstest/pull/4977](https://togithub.com/microsoft/vstest/pull/4977)
+- Add list of known TestingPlatform dlls by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4983](https://togithub.com/microsoft/vstest/pull/4983)
+- Update framework version used for testing, and test matrix by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4970](https://togithub.com/microsoft/vstest/pull/4970)
+- Add output forwarding for .NET by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4988](https://togithub.com/microsoft/vstest/pull/4988)
+- Remove usage of pt images before decomissioning by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4994](https://togithub.com/microsoft/vstest/pull/4994)
+- chore: Add more details to acquistion section. by
+[@&amp;#8203;voroninp](https://togithub.com/voroninp) in
+[https://github.com/microsoft/vstest/pull/4999](https://togithub.com/microsoft/vstest/pull/4999)
+- Simplify banner by [@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5013](https://togithub.com/microsoft/vstest/pull/5013)
+- Forward standard output of testhost by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/4998](https://togithub.com/microsoft/vstest/pull/4998)
+- Add missing copyright header by
+[@&amp;#8203;MichaelSimons](https://togithub.com/MichaelSimons) in
+[https://github.com/microsoft/vstest/pull/5020](https://togithub.com/microsoft/vstest/pull/5020)
+- Add option to not share .NET Framework testhosts by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5018](https://togithub.com/microsoft/vstest/pull/5018)
+- GetTypesToLoad Attribute cant be null by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5054](https://togithub.com/microsoft/vstest/pull/5054)
+- rawArgument in GetArgumentList cant be null by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5056](https://togithub.com/microsoft/vstest/pull/5056)
+- fix Atribute typo by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5057](https://togithub.com/microsoft/vstest/pull/5057)
+- remove unnecessary list alloc for 2 scenarios in
+TestRequestManager.GetSources by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5058](https://togithub.com/microsoft/vstest/pull/5058)
+- fix incompatiblity typo by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5059](https://togithub.com/microsoft/vstest/pull/5059)
+- remove redundant inline method in IsPlatformIncompatible by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5060](https://togithub.com/microsoft/vstest/pull/5060)
+- fix Sucess typo by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5061](https://togithub.com/microsoft/vstest/pull/5061)
+- use some null coalescing by
+[@&amp;#8203;SimonCropp](https://togithub.com/SimonCropp) in
+[https://github.com/microsoft/vstest/pull/5062](https://togithub.com/microsoft/vstest/pull/5062)
+- Add cts into friends of TranslationLayer by
+[@&amp;#8203;jakubch1](https://togithub.com/jakubch1) in
+[https://github.com/microsoft/vstest/pull/5075](https://togithub.com/microsoft/vstest/pull/5075)
+- Use built in sha1 for id generation by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5081](https://togithub.com/microsoft/vstest/pull/5081)
+- All output in terminal logger by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5083](https://togithub.com/microsoft/vstest/pull/5083)
+- Ignore env test by [@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5095](https://togithub.com/microsoft/vstest/pull/5095)
+- Dispose XmlReader in XmlRunSettingsUtilities by
+[@&amp;#8203;omajid](https://togithub.com/omajid) in
+[https://github.com/microsoft/vstest/pull/5094](https://togithub.com/microsoft/vstest/pull/5094)
+- Bump to macos-12 build image by
+[@&amp;#8203;akoeplinger](https://togithub.com/akoeplinger) in
+[https://github.com/microsoft/vstest/pull/5101](https://togithub.com/microsoft/vstest/pull/5101)
+- Handle ansi escape in terminal logger reporter by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5084](https://togithub.com/microsoft/vstest/pull/5084)
+- remove disable interactive auth by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5110](https://togithub.com/microsoft/vstest/pull/5110)
+- Error output as info in terminal logger by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5113](https://togithub.com/microsoft/vstest/pull/5113)
+- Write dll instead of target on abort, rename errors by
+[@&amp;#8203;nohwnd](https://togithub.com/nohwnd) in
+[https://github.com/microsoft/vstest/pull/5115](https://togithub.com/microsoft/vstest/pull/5115)
+- - \[rel/17.11] Update dependencies from devdiv/DevDiv/vs-code-coverage
+by [@&amp;#8203;dotnet-maestro](https://togithub.com/dotnet-maestro) in
+[https://github.com/microsoft/vstest/pull/5152](https://togithub.com/microsoft/vstest/pull/5152)
+
+#### New Contributors
+
+- [@&amp;#8203;peterwald](https://togithub.com/peterwald) made their first
+contribution in
+[https://github.com/microsoft/vstest/pull/4958](https://togithub.com/microsoft/vstest/pull/4958)
+- [@&amp;#8203;DickBaker](https://togithub.com/DickBaker) made their first
+contribution in
+[https://github.com/microsoft/vstest/pull/4977](https://togithub.com/microsoft/vstest/pull/4977)
+- [@&amp;#8203;voroninp](https://togithub.com/voroninp) made their first
+contribution in
+[https://github.com/microsoft/vstest/pull/4999](https://togithub.com/microsoft/vstest/pull/4999)
+- [@&amp;#8203;akoeplinger](https://togithub.com/akoeplinger) made their
+first contribution in
+[https://github.com/microsoft/vstest/pull/5101](https://togithub.com/microsoft/vstest/pull/5101)
+
+**Full Changelog**:
+https://github.com/microsoft/vstest/compare/v17.10.0...v17.11.0-release-24352-06
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOC41Ni4wIiwidXBkYXRlZEluVmVyIjoiMzguNTYuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiRGVwZW5kZW5jeSBNYW5hZ2VtZW50Il19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -327,29 +1769,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#245 [Bug]: Reactive attribute with partial property copies JsonPropertyName attribute</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by sdargaud in <span class="repo">reactiveui/ReactiveUI.SourceGenerators</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2025, 10:18:57 (timezone Australia/Victoria) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jun 2025, 10:18:42 (timezone Australia/Victoria) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
