@@ -113,8 +113,7 @@ I work on functional reactive programming for .NET — making MVVM, async data, 
 
 <div align="center">
 
-[![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=glennawatson&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glennawatson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Most-used languages — 85% C# across 45 public repos" src="./assets/top-languages.svg" width="495"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=glennawatson&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 
